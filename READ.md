@@ -28,8 +28,8 @@ Follow these steps to clone the repository, install dependencies, and run the pr
 
 1. **Clone the Repository**:
    ```bash
-   git clone [REPO_URL]
-   cd [REPO_FOLDER]
+   git clone https://github.com/CristianSotomayorGit/layup-sequence.git
+   cd layup-sequence
    ```
 
 2. **Install Dependencies**:
@@ -41,7 +41,7 @@ Follow these steps to clone the repository, install dependencies, and run the pr
 3. **Run the Program**:
    Use `ts-node` to directly execute the TypeScript file:
    ```bash
-   ts-node [FILENAME.ts]
+   ts-node LayupSequence.ts
    ```
 
 ---
